@@ -1,9 +1,9 @@
 # Spring_Boot_project
  ### - :telescope: It is a back-end side application that runs on local server port 8080 <br/>
  ### - :hammer_and_wrench: Built with : <br/><br/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Spring" alt="Spring" width="70" height="70"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="java" alt="Spring" width="70" height="70"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="70" height="70"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="Spring" alt="Spring" width="70" height="70"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="postgres" alt="Spring" width="70" height="70"/>&nbsp;
 <br/>
 
 ## DESCRIPTION
